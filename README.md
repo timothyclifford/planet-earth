@@ -56,6 +56,8 @@ List of interesting environment, climate change &amp; sustainability content.
 
 ## Data, visualisations & research
 
+- [Climate Analytics](https://climateanalytics.org/) publish a wide range of data and tools covering most aspects of climate change
+- [Climate Action Tracker](https://climateactiontracker.org/) is an independent scientific analysis that tracks government climate action and measures it against the globally agreed Paris Agreement
 - [Our world in data](https://ourworldindata.org/) publishes large amounts of data and reports covering all aspects of humanity
 - [MIT Interactive Climate Change Simulator](https://en-roads.climateinteractive.org/scenario.html?v=2.7.6) allows users to tweak the different factors to see the anticipated positive or negative effect
 - [UN Sustainable Development Goals tracker](https://sdg-tracker.org/) publishes data reporting on progress toward the UN goals
@@ -87,7 +89,7 @@ List of interesting environment, climate change &amp; sustainability content.
 ## Internet
 
 - The [Sustainable Web Manifesto](https://www.sustainablewebmanifesto.com/) declares your commitment to create a greener web
-- [Website carbon footprint calculator](https://www.websitecarbon.com/)
+- [Website carbon calculator](https://www.websitecarbon.com/) lets you calculate the carbon footprint of a website
 - [surfgreen.dev](https://www.surfgreen.dev/) provides a website sustainability test. Seems a bit sales-y but interesting none-the-less
 - [Sustainable Web Design](https://sustainablewebdesign.org/) makes a number of suggestions when it comes to building a more sustainable website or app
 - [Ecograder](https://ecograder.com/) is another website sustainability calculator. Also pretty light on, may be developed more in future

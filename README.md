@@ -12,6 +12,7 @@ List of interesting environment, climate change &amp; sustainability content.
 - [The Natural Resources Defense Council](https://www.nrdc.org/) works to safeguard the earth - its people, its plants and animals, and the natural systems on which all life depends
 - [We Mean Business](https://www.wemeanbusinesscoalition.org/) are a coalition aiming to catalyze business action and driving policy ambition to accelerate the zero-carbon transition
 - From We Mean Business, [Better Faster Future](https://betterfuturefaster.org/) breaks the climate problem into pillars and attempts to lay out a path forward for each
+- [1% for the planet](https://www.onepercentfortheplanet.org/) enables businesses and individuals to donate 1% of their total sales back to the environment
 
 ## Circular Economy & Zero waste
 
@@ -73,6 +74,12 @@ List of interesting environment, climate change &amp; sustainability content.
 ## Events
 
 - [Hopin](https://www.hopin.to/) is the first all-in-one live online events platform where attendees can learn, interact, and connect with people from anywhere in the world
+
+## Finance & investing
+
+- [Tomorrow](https://www.tomorrow.one/) offer digital bank accounts where your money and fees are invested only in sustainable projects
+- Australian ethical investment company [U Ethical](https://www.uethical.com/) invest in projects with positive impacts and exclude those that have negative effects on society or the environment
+- [Responsible Returns](https://www.responsiblereturns.com.au/) aggregates ethical / responsible / sustainable finance products for the Australian market
 
 ## Food, farming & agriculture
 

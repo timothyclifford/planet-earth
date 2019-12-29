@@ -125,6 +125,10 @@ List of interesting environment, climate change &amp; sustainability content.
 - [Eden Reforestation Projects](https://edenprojects.org/) reduces extreme poverty and restores healthy forests by employing local villagers to plant millions of trees every year
 - [GoClimateNeutral](https://www.goclimateneutral.org/) offer offsetting in projects in developing countries
 
+## Pollution
+
+- [Steven Zhang's guide to dealing with air pollution](https://airpollutionguide.net/) is aimed at the US but provides general tips about living with inceair pollution
+
 ## Tech industry & startups
 
 - Great newsletter [Green Digital](https://greeningdigital.substack.com/) covering sustainability in digital products

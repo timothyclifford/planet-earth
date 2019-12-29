@@ -33,11 +33,12 @@ List of interesting environment, climate change &amp; sustainability content.
 - [Facing Extinction](https://www.catherineingram.com/facingextinction/) is a long but interesting read from Catherine Ingram on climate and the human race
 - Two papers published by the 2019 [Exponential Roadmap](https://exponentialroadmap.org/) covering how to accelerate the 36 solutions required to slash greenhouse gas emissions 50% by 2030
 
-## Cloud Computing
+## Cloud computing & hosting
 
 - [OnApp](https://onapp.com/green/) “greener cloud” initiative to help minimize cloud infrastructure CO2 emissions, and reduce the impact of OnApp clouds on climate change
 - Based in Amsterdam, [Greenhost](https://greenhost.net/) provide infrastructure hosting powered by 100% renewables
 - The Green Web Foundation has a [directory](https://www.thegreenwebfoundation.org/directory/) of green hosts globally
+- [Green Geeks](https://www.greengeeks.com/) have a global presence and offer website hosting which puts 3x the energy they consume back into the grid via renewables
 
 ## Communities and blogs
 
@@ -93,7 +94,7 @@ List of interesting environment, climate change &amp; sustainability content.
 - [Impressive interactive map](https://learngis.maps.arcgis.com/apps/InteractiveLegend/index.html?appid=f8770f5036d849f5ba1202923c8dbc35) showing a country's oil budget as surplus (blue) or deficit (red), points of political conflict that engage with the oil market on a local scale, and information about each country's greenhouse gas reduction goals outlined in the 2016 Paris Agreements
 - Greenpeace report outlining [Carbon Capture](http://www.greenpeace.org/usa/wp-content/uploads/legacy/Global/usa/planet3/PDFs/Carbon-Cabpture-Scam-Exec-Summary.pdf) technology and the associated problems
 
-## Internet
+## Internet & websites
 
 - The [Sustainable Web Manifesto](https://www.sustainablewebmanifesto.com/) declares your commitment to create a greener web
 - [Website carbon calculator](https://www.websitecarbon.com/) lets you calculate the carbon footprint of a website

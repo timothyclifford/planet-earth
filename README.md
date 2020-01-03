@@ -20,6 +20,7 @@ List of interesting environment, climate change &amp; sustainability content.
 - [Precious Plastic](https://preciousplastic.com/en/) create tools that make it easier to start recycling plastic
 - [Circular Berlin](http://circular.berlin/) are a non-profit reshaping Berlin’s metabolism – by developing the local circular economy agenda and its implementation, through research, community-building and practical programmes
 - [PureWaste](https://www.purewaste.org/) manufacture clothing out of waste material
+- [Resyn](https://resyn.io/) connect sustainable producers online, directly to each other — and to local retailers and consumers — to help regions transition to local, renewable, circular economies
 - [Storr Cupboard](https://storrcupboard.com/) shares recipes and tips around food waste and leftovers
 - [Shop Ethical Guide](https://www.ethical.org.au/3.4.2/) lists the environmental and social record of companies behind common brand names
 - [Zero Waste Labs](http://zerowastelabs.com/) are a collective of designers, engineers and techies investigating zero waste, closed loop systems that are practical for urban, high density life
@@ -27,6 +28,7 @@ List of interesting environment, climate change &amp; sustainability content.
 
 ## Climate
 
+- [UN Climate Change Adaptation](https://www.adaptation-undp.org/) build lasting resilience for at-risk communities and promote a global zero-carbon future
 - [Grist](https://grist.org/) climate news, heavily US focused but lots of good content
 - [Losing Earth: The Decade We Almost Stopped Climate Change](https://www.nytimes.com/interactive/2018/08/01/magazine/climate-change-losing-earth.html) is a NY Times long read from 2018 on when climate change was first discovered at the beginning of the 1980s and some of the people involved
 - [Common sense for the 21st century](https://www.rogerhallam.com/wp-content/uploads/2019/08/Common-Sense-for-the-21st-Century_by-Roger-Hallam-Download-version.pdf) is a paper written by Roger Hallam, one of the Extinction Rebellion founders
@@ -40,11 +42,14 @@ List of interesting environment, climate change &amp; sustainability content.
 - The Green Web Foundation has a [directory](https://www.thegreenwebfoundation.org/directory/) of green hosts globally
 - [Green Geeks](https://www.greengeeks.com/) have a global presence and offer website hosting which puts 3x the energy they consume back into the grid via renewables
 
-## Communities and blogs
+## Communities, blogs & lists
 
 - [Fridays for Future](https://fridaysforfuture.org/)
 - [Global Climate Strike](https://globalclimatestrike.net/)
 - [climateaction.tech](https://climateaction.tech/) is a global community of tech professionals using our skills, expertise and platforms to support solutions to the climate crisis
+- [Protect.Earth](https://protect.earth/) is a list of strategies, products, services, and companies focused on sustainability and environmental protection. We are faced with a global existential crisis - every little bit you can do helps
+- [Near.Tools](http://near.tools/) aims to help anyone understand climate breakdown and empower them to take action
+- [climateaction.tech Flipboard](https://flipboard.com/@boxabirds/climate-action-tech-4e9otuh5z?from=share) compiles climate related news and updates
 - [Green European Journal](https://www.greeneuropeanjournal.eu/) offers a broad conversation about political ecology and what it means for our society, today and for the years to come
 - [Degrowth](https://www.degrowth.info/en/) believe constant growth leads to over consumption and production which leads to many negative effects for humans and the planet
 - [Waag](https://waag.org/en/home) is a middle-ground organisation composed of research groups that work with both grassroots initiatives and institutional partners across Europe
@@ -61,6 +66,7 @@ List of interesting environment, climate change &amp; sustainability content.
 - [Climate Analytics](https://climateanalytics.org/) publish a wide range of data and tools covering most aspects of climate change
 - [Climate Action Tracker](https://climateactiontracker.org/) is an independent scientific analysis that tracks government climate action and measures it against the globally agreed Paris Agreement
 - [Our world in data](https://ourworldindata.org/) publishes large amounts of data and reports covering all aspects of humanity
+- [CO2 Levels](https://www.co2levels.org/) displays current and historic CO2 measurements
 - [MIT Interactive Climate Change Simulator](https://en-roads.climateinteractive.org/scenario.html?v=2.7.6) allows users to tweak the different factors to see the anticipated positive or negative effect
 - [UN Sustainable Development Goals tracker](https://sdg-tracker.org/) publishes data reporting on progress toward the UN goals
 - [The Climate Data Factory](https://theclimatedatafactory.com/) publishes ready to use climate change data

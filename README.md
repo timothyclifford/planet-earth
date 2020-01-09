@@ -131,6 +131,7 @@ List of interesting environment, climate change &amp; sustainability content.
 - [Trump Forest](https://trumpforest.com/) unfortunately now inactive but was a tree planting project aimed to combat (and probably annoy) the environmental policies of Trump
 - [Eden Reforestation Projects](https://edenprojects.org/) reduces extreme poverty and restores healthy forests by employing local villagers to plant millions of trees every year
 - [GoClimateNeutral](https://www.goclimateneutral.org/) offer offsetting in projects in developing countries
+- [Nori](https://nori.com/) is the world’s only carbon dioxide removal marketplace. Essentially a 2-sided marketplace enabling carbon removal suppliers to connect directly with buyers, improving efficiency and reducing costs
 
 ## Pollution
 

@@ -13,6 +13,7 @@ List of interesting environment, climate change &amp; sustainability content.
 - [We Mean Business](https://www.wemeanbusinesscoalition.org/) are a coalition aiming to catalyze business action and driving policy ambition to accelerate the zero-carbon transition
 - From We Mean Business, [Better Faster Future](https://betterfuturefaster.org/) breaks the climate problem into pillars and attempts to lay out a path forward for each
 - [1% for the planet](https://www.onepercentfortheplanet.org/) enables businesses and individuals to donate 1% of their total sales back to the environment
+- [ClimateNeutral](https://www.climateneutral.org/) is an independent non-profit organization working to accelerate the transition to a low-carbon world by putting a price on carbon emissions
 
 ## Circular Economy & Zero waste
 
@@ -146,6 +147,7 @@ List of interesting environment, climate change &amp; sustainability content.
 - Super cool! The [homebrewserver.club](https://homebrewserver.club/index.html) is a monthly gathering for those who (wish to) host their own online services from home, rather than using commercial and privacy unfriendly alternatives
 - [Digital Climate Strike](https://digital.globalclimatestrike.net/) offered digital support for the global climate strikes
 - [Mattermore](https://www.mattermore.io/) offer data science for the climate - collaborate with peers, find high-impact projects and jobs, grow your community and hire
+- [WildLabs](https://www.climateneutral.org/) is a community of conservationists, technologists, engineers, data scientists, entrepreneurs and change makers
 
 ## Travel
 

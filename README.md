@@ -85,6 +85,7 @@ List of interesting environment, climate change &amp; sustainability content.
 ## Events
 
 - [Hopin](https://www.hopin.to/) is the first all-in-one live online events platform where attendees can learn, interact, and connect with people from anywhere in the world
+- Not so much a website but the [Spring One Platform tech conference swag policy](https://springoneplatform.io/2019/swagless) is an amazing example of a sustainable approach to this historically unsustainable topic
 
 ## Finance & investing
 

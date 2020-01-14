@@ -155,6 +155,7 @@ List of interesting environment, climate change &amp; sustainability content.
 ## Tools
 
 - [OnePlanet](https://oneplanet.com/) provide a radical online platform to enable everyone to plan for the future and create the places, products and services to live happy, healthy lives on our one planet.
+- [Climate Adaption Knowledge Exchange](https://www.cakex.org/) compiles the world’s largest and most used source of climate adaptation case studies and resources
 
 ## Travel
 

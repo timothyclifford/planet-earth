@@ -14,6 +14,7 @@ List of interesting environment, climate change &amp; sustainability content.
 - From We Mean Business, [Better Faster Future](https://betterfuturefaster.org/) breaks the climate problem into pillars and attempts to lay out a path forward for each
 - [1% for the planet](https://www.onepercentfortheplanet.org/) enables businesses and individuals to donate 1% of their total sales back to the environment
 - [ClimateNeutral](https://www.climateneutral.org/) is an independent non-profit organization working to accelerate the transition to a low-carbon world by putting a price on carbon emissions
+- [Citizen's Climate Lobby](https://citizensclimatelobby.org/) empowers everyday people to work together on climate change solutions
 
 ## Circular Economy & Zero waste
 
@@ -43,7 +44,7 @@ List of interesting environment, climate change &amp; sustainability content.
 - The Green Web Foundation has a [directory](https://www.thegreenwebfoundation.org/directory/) of green hosts globally
 - [Green Geeks](https://www.greengeeks.com/) have a global presence and offer website hosting which puts 3x the energy they consume back into the grid via renewables
 
-## Communities, blogs & lists
+## Communities, podcasts, blogs & lists
 
 - [Fridays for Future](https://fridaysforfuture.org/)
 - [Global Climate Strike](https://globalclimatestrike.net/)
@@ -61,6 +62,7 @@ List of interesting environment, climate change &amp; sustainability content.
 - [Mifactori](https://mifactori.de/) is a studio for open design, environmental activism and creative urbanism
 - [Green Me Berlin](https://www.greenmeberlin.com/) is a blog based around sustainable activities and services in Berlin
 - Research paper looking at [Blockchain in the energy sector](https://www.sciencedirect.com/science/article/pii/S1364032118307184)
+- [You've Been Warmed](https://www.youvebeenwarmed.com/) interview the top scientists, entrepreneurs, activists & politicians, to find answers to all of the above while uncovering the leaders behind our fight for the preservation of our planet
 
 ## Data, visualisations & research
 
@@ -149,6 +151,10 @@ List of interesting environment, climate change &amp; sustainability content.
 - [Digital Climate Strike](https://digital.globalclimatestrike.net/) offered digital support for the global climate strikes
 - [Mattermore](https://www.mattermore.io/) offer data science for the climate - collaborate with peers, find high-impact projects and jobs, grow your community and hire
 - [WildLabs](https://www.climateneutral.org/) is a community of conservationists, technologists, engineers, data scientists, entrepreneurs and change makers
+
+## Tools
+
+- [OnePlanet](https://oneplanet.com/) provide a radical online platform to enable everyone to plan for the future and create the places, products and services to live happy, healthy lives on our one planet.
 
 ## Travel
 

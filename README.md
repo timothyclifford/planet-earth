@@ -50,6 +50,7 @@ List of interesting environment, climate change &amp; sustainability content.
 - [Global Climate Strike](https://globalclimatestrike.net/)
 - [climateaction.tech](https://climateaction.tech/) is a global community of tech professionals using our skills, expertise and platforms to support solutions to the climate crisis
 - [Protect.Earth](https://protect.earth/) is a list of strategies, products, services, and companies focused on sustainability and environmental protection. We are faced with a global existential crisis - every little bit you can do helps
+- [Climatescape](https://climatescape.org/) map the global landscape of climate-saving organizations and resources
 - [Near.Tools](http://near.tools/) aims to help anyone understand climate breakdown and empower them to take action
 - [climateaction.tech Flipboard](https://flipboard.com/@boxabirds/climate-action-tech-4e9otuh5z?from=share) compiles climate related news and updates
 - [Green European Journal](https://www.greeneuropeanjournal.eu/) offers a broad conversation about political ecology and what it means for our society, today and for the years to come

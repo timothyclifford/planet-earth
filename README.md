@@ -64,6 +64,7 @@ List of interesting environment, climate change &amp; sustainability content.
 - [Green Me Berlin](https://www.greenmeberlin.com/) is a blog based around sustainable activities and services in Berlin
 - Research paper looking at [Blockchain in the energy sector](https://www.sciencedirect.com/science/article/pii/S1364032118307184)
 - [You've Been Warmed](https://www.youvebeenwarmed.com/) interview the top scientists, entrepreneurs, activists & politicians, to find answers to all of the above while uncovering the leaders behind our fight for the preservation of our planet
+- [Extinction Rebellion](https://extinctionrebellion.uk/) is a global environmental movement with the stated aim of using nonviolent civil disobedience to compel government action to avoid tipping points in the climate system, biodiversity loss, and the risk of social and ecological collapse.
 
 ## Data, visualisations & research
 
@@ -92,6 +93,7 @@ List of interesting environment, climate change &amp; sustainability content.
 - [Tomorrow](https://www.tomorrow.one/) offer digital bank accounts where your money and fees are invested only in sustainable projects
 - Australian ethical investment company [U Ethical](https://www.uethical.com/) invest in projects with positive impacts and exclude those that have negative effects on society or the environment
 - [Responsible Returns](https://www.responsiblereturns.com.au/) aggregates ethical / responsible / sustainable finance products for the Australian market
+- A small [list](https://www.justetf.com/de-en/how-to/invest-in-social-responsibility-europe.html) of socially responsible investment funds.
 
 ## Food, farming & agriculture
 

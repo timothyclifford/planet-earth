@@ -93,6 +93,7 @@ List of interesting environment, climate change &amp; sustainability content.
 - [Tomorrow](https://www.tomorrow.one/) offer digital bank accounts where your money and fees are invested only in sustainable projects
 - Australian ethical investment company [U Ethical](https://www.uethical.com/) invest in projects with positive impacts and exclude those that have negative effects on society or the environment
 - [Responsible Returns](https://www.responsiblereturns.com.au/) aggregates ethical / responsible / sustainable finance products for the Australian market
+- A small [list](https://www.justetf.com/de-en/how-to/invest-in-social-responsibility-europe.html) of socially responsible investment funds.
 
 ## Food, farming & agriculture
 

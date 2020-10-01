@@ -19,7 +19,7 @@ List of interesting environment, climate change &amp; sustainability content.
 ## Circular Economy & Zero waste
 
 - [Open Circularity](https://opencircularity.info/) collects circular economy content
-- [Precious Plastic](https://preciousplastic.com/en/) create tools that make it easier to start recycling plastic
+- [Precious Plastic](https://preciousplastic.com/) create tools that make it easier to start recycling plastic
 - [Circular Berlin](http://circular.berlin/) are a non-profit reshaping Berlin’s metabolism – by developing the local circular economy agenda and its implementation, through research, community-building and practical programmes
 - [PureWaste](https://www.purewaste.org/) manufacture clothing out of waste material
 - [Resyn](https://resyn.io/) connect sustainable producers online, directly to each other — and to local retailers and consumers — to help regions transition to local, renewable, circular economies
@@ -134,7 +134,7 @@ List of interesting environment, climate change &amp; sustainability content.
 - Difficult to tell if [ClimateFutures](https://climatefutures.io/) are in it to help or just make a buck. 1Planet Blockchain sounds very suspicious...
 - [Target2030](https://target2030.org/) is a charitable foundation focusing on tree planting and sustainability advocacy
 - [Choose](https://chooose.today/) offer offsetting subscriptions for individuals and businesses
-- [Trump Forest](https://trumpforest.com/) unfortunately now inactive but was a tree planting project aimed to combat (and probably annoy) the environmental policies of Trump
+- [Trump Forest](https://trumpforest.com/) unfortunately now inactive but was a tree planting project aimed to combat (and probably annoy) the environmental policies of Trump. [Here](https://www.nationofchange.org/topics/trump-forest/) are two articles describing the project.
 - [Eden Reforestation Projects](https://edenprojects.org/) reduces extreme poverty and restores healthy forests by employing local villagers to plant millions of trees every year
 - [GoClimateNeutral](https://www.goclimateneutral.org/) offer offsetting in projects in developing countries
 - [Nori](https://nori.com/) is the world’s only carbon dioxide removal marketplace. Essentially a 2-sided marketplace enabling carbon removal suppliers to connect directly with buyers, improving efficiency and reducing costs

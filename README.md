@@ -2,7 +2,7 @@
 
 List of interesting environment, climate change &amp; sustainability content.
 
-- [Charities, NGOs and Not For Profits]("/pages/not-for-profits.md")
+- [Charities, NGOs and Not For Profits](pages/not-for-profits.md)
 
 ## Circular Economy & Zero waste
 

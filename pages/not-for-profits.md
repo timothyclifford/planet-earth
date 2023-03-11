@@ -1,9 +1,13 @@
 [Go back home](../README.md)
 
-# Charities, NGOs and Not For Profits
+# Charities
 
-- [ClimateWorks Foundation](https://www.climateworks.org/) collaborates with funders, regional and research partners, and other climate leaders to strengthen philanthropy’s response to climate change
-- [Possible](https://www.wearepossible.org/) are a UK based charity aimed at tackling climate change through inspiring people to act
+| Name | Description |
+| --- | --- |
+| [ClimateWorks Foundation](https://www.climateworks.org/) | Collaborate with funders, regional and research partners, and other climate leaders to strengthen philanthropy's response to climate change |
+| [Possible](https://www.wearepossible.org/) | UK based charity aimed at tackling climate change through inspiring people to act |
+
+
 - [Doteveryone](https://www.doteveryone.org.uk/) are a UK based think tank focused on responsible technology for everyone
 - [CDP](https://www.cdp.net/en) is a not-for-profit charity that runs the global disclosure system for investors, companies, cities, states and regions to manage their environmental impacts
 - [Future Earth](https://futureearth.org/) is a global initiative to strengthen the interface between policy and science
